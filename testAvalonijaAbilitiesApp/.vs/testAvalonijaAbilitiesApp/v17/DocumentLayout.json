@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\latestcoursework\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\services\\supabasestuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\services\\supabasestuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\latestcoursework\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\viewmodels\\todolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\viewmodels\\todolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\latestcoursework\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\datamodel\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\datamodel\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\latestcoursework\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\datamodel\\complextaskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\datamodel\\complextaskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\latestcoursework\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\latestcoursework\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\latestcoursework\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\views\\todolistview.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\views\\todolistview.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\latestcoursework\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\views\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\views\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\latestcoursework\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\views\\todolistview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\views\\todolistview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\latestcoursework\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\latestcoursework\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\views\\registerwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\views\\registerwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\latestcoursework\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\views\\loginwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\views\\loginwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\latestcoursework\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\viewmodels\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\viewmodels\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\latestcoursework\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\viewlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\viewlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\latestcoursework\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\latestcoursework\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\datamodel\\additemconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\datamodel\\additemconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\latestcoursework\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\latestcoursework\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\testavalonijaabilitiesapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\latestcoursework\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\latestcoursework\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\latestcoursework\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\views\\todolistview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\views\\todolistview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 162,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoListViewModel.cs",
+              "DocumentMoniker": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\ToDoListViewModel.cs",
+              "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\ViewModels\\ToDoListViewModel.cs",
+              "ToolTip": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\ToDoListViewModel.cs",
+              "RelativeToolTip": "testAvalonijaAbilitiesApp\\ViewModels\\ToDoListViewModel.cs",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAAAGMBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:27:46.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginWindow.axaml",
+              "DocumentMoniker": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\LoginWindow.axaml",
+              "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\Views\\LoginWindow.axaml",
+              "ToolTip": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\LoginWindow.axaml",
+              "RelativeToolTip": "testAvalonijaAbilitiesApp\\Views\\LoginWindow.axaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-22T12:31:25.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ToDoListView.axaml",
+              "DocumentMoniker": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\ToDoListView.axaml",
+              "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\Views\\ToDoListView.axaml",
+              "ToolTip": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\ToDoListView.axaml",
+              "RelativeToolTip": "testAvalonijaAbilitiesApp\\Views\\ToDoListView.axaml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAqwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-22T12:30:49.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\Views\\MainWindow.axaml",
+              "ToolTip": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\MainWindow.axaml",
+              "RelativeToolTip": "testAvalonijaAbilitiesApp\\Views\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-22T12:31:26.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterWindow.axaml",
+              "DocumentMoniker": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\RegisterWindow.axaml",
+              "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\Views\\RegisterWindow.axaml",
+              "ToolTip": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\RegisterWindow.axaml",
+              "RelativeToolTip": "testAvalonijaAbilitiesApp\\Views\\RegisterWindow.axaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-22T12:31:43.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\Views\\MainWindow.axaml.cs",
+              "ToolTip": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\MainWindow.axaml.cs",
+              "RelativeToolTip": "testAvalonijaAbilitiesApp\\Views\\MainWindow.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:31:35.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ToDoListView.axaml.cs",
+              "DocumentMoniker": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\ToDoListView.axaml.cs",
+              "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\Views\\ToDoListView.axaml.cs",
+              "ToolTip": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\ToDoListView.axaml.cs",
+              "RelativeToolTip": "testAvalonijaAbilitiesApp\\Views\\ToDoListView.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:31:51.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SignInViewModel.cs",
+              "DocumentMoniker": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\SignInViewModel.cs",
+              "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\ViewModels\\SignInViewModel.cs",
+              "ToolTip": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\SignInViewModel.cs",
+              "RelativeToolTip": "testAvalonijaAbilitiesApp\\ViewModels\\SignInViewModel.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAD4vzUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:46:50.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Program.cs",
+              "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\Program.cs",
+              "ToolTip": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Program.cs",
+              "RelativeToolTip": "testAvalonijaAbilitiesApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:36:52.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddItemConverter.cs",
+              "DocumentMoniker": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\AddItemConverter.cs",
+              "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\DataModel\\AddItemConverter.cs",
+              "ToolTip": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\AddItemConverter.cs",
+              "RelativeToolTip": "testAvalonijaAbilitiesApp\\DataModel\\AddItemConverter.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T09:19:15.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewLocator.cs",
+              "DocumentMoniker": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewLocator.cs",
+              "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\ViewLocator.cs",
+              "ToolTip": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewLocator.cs",
+              "RelativeToolTip": "testAvalonijaAbilitiesApp\\ViewLocator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:36:59.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "testAvalonijaAbilitiesApp.csproj",
+              "DocumentMoniker": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj",
+              "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj",
+              "ToolTip": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj",
+              "RelativeToolTip": "testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T17:37:05.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "app.manifest",
+              "DocumentMoniker": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\app.manifest",
+              "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\app.manifest",
+              "ToolTip": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\app.manifest",
+              "RelativeToolTip": "testAvalonijaAbilitiesApp\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-11-27T17:36:51.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\Views\\MainWindow.axaml",
+              "ToolTip": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\MainWindow.axaml",
+              "RelativeToolTip": "testAvalonijaAbilitiesApp\\Views\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T17:36:44.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.axaml",
+              "DocumentMoniker": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\App.axaml",
+              "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\App.axaml",
+              "ToolTip": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\App.axaml",
+              "RelativeToolTip": "testAvalonijaAbilitiesApp\\App.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T17:36:32.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ToDoListView.axaml",
+              "DocumentMoniker": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\ToDoListView.axaml",
+              "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\Views\\ToDoListView.axaml",
+              "ToolTip": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\ToDoListView.axaml",
+              "RelativeToolTip": "testAvalonijaAbilitiesApp\\Views\\ToDoListView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T17:26:11.018Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 238,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SupabaseStuff.cs",
+              "DocumentMoniker": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Services\\SupabaseStuff.cs",
+              "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\Services\\SupabaseStuff.cs",
+              "ToolTip": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Services\\SupabaseStuff.cs",
+              "RelativeToolTip": "testAvalonijaAbilitiesApp\\Services\\SupabaseStuff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:37:03.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\TaskItem.cs",
+              "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\DataModel\\TaskItem.cs",
+              "ToolTip": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\TaskItem.cs",
+              "RelativeToolTip": "testAvalonijaAbilitiesApp\\DataModel\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T09:17:50.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComplexTaskItem.cs",
+              "DocumentMoniker": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\ComplexTaskItem.cs",
+              "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\DataModel\\ComplexTaskItem.cs",
+              "ToolTip": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\ComplexTaskItem.cs",
+              "RelativeToolTip": "testAvalonijaAbilitiesApp\\DataModel\\ComplexTaskItem.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:47:41.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "testAvalonijaAbilitiesApp\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:37:32.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignUpViewModel.cs",
+              "DocumentMoniker": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\SignUpViewModel.cs",
+              "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\ViewModels\\SignUpViewModel.cs",
+              "ToolTip": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\SignUpViewModel.cs",
+              "RelativeToolTip": "testAvalonijaAbilitiesApp\\ViewModels\\SignUpViewModel.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T09:24:54.999Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

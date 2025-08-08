@@ -1,0 +1,761 @@
+{
+  "version": 2,
+  "dgSpecHash": "/H1BdOuKKmQ=",
+  "success": false,
+  "projectFilePath": "E:\\LatestCoursework\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Миша\\.nuget\\packages\\avalonia\\11.0.2\\avalonia.11.0.2.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.0.2023020321\\avalonia.angle.windows.natives.2.1.0.2023020321.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\avalonia.buildservices\\0.0.28\\avalonia.buildservices.0.0.28.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\avalonia.controls.colorpicker\\11.0.2\\avalonia.controls.colorpicker.11.0.2.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\avalonia.controls.datagrid\\11.0.2\\avalonia.controls.datagrid.11.0.2.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\avalonia.desktop\\11.0.2\\avalonia.desktop.11.0.2.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\avalonia.diagnostics\\11.0.2\\avalonia.diagnostics.11.0.2.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\avalonia.fonts.inter\\11.0.2\\avalonia.fonts.inter.11.0.2.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\avalonia.freedesktop\\11.0.2\\avalonia.freedesktop.11.0.2.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\avalonia.native\\11.0.2\\avalonia.native.11.0.2.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\avalonia.reactiveui\\11.0.2\\avalonia.reactiveui.11.0.2.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\avalonia.remote.protocol\\11.0.2\\avalonia.remote.protocol.11.0.2.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\avalonia.skia\\11.0.2\\avalonia.skia.11.0.2.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\avalonia.themes.fluent\\11.0.2\\avalonia.themes.fluent.11.0.2.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\avalonia.themes.simple\\11.0.2\\avalonia.themes.simple.11.0.2.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\avalonia.win32\\11.0.2\\avalonia.win32.11.0.2.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\avalonia.x11\\11.0.2\\avalonia.x11.11.0.2.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\dynamicdata\\7.9.5\\dynamicdata.7.9.5.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\harfbuzzsharp\\2.8.2.3\\harfbuzzsharp.2.8.2.3.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\harfbuzzsharp.nativeassets.linux\\2.8.2.3\\harfbuzzsharp.nativeassets.linux.2.8.2.3.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\2.8.2.3\\harfbuzzsharp.nativeassets.macos.2.8.2.3.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\harfbuzzsharp.nativeassets.webassembly\\2.8.2.3\\harfbuzzsharp.nativeassets.webassembly.2.8.2.3.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\2.8.2.3\\harfbuzzsharp.nativeassets.win32.2.8.2.3.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\microcom.runtime\\0.11.0\\microcom.runtime.0.11.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.0.0\\microsoft.codeanalysis.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\microsoft.codeanalysis.common\\3.8.0\\microsoft.codeanalysis.common.3.8.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.8.0\\microsoft.codeanalysis.csharp.3.8.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\microsoft.codeanalysis.csharp.scripting\\3.8.0\\microsoft.codeanalysis.csharp.scripting.3.8.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\microsoft.codeanalysis.scripting.common\\3.8.0\\microsoft.codeanalysis.scripting.common.3.8.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.5.1\\microsoft.identitymodel.abstractions.7.5.1.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.5.1\\microsoft.identitymodel.jsonwebtokens.7.5.1.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\microsoft.identitymodel.logging\\7.5.1\\microsoft.identitymodel.logging.7.5.1.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.5.1\\microsoft.identitymodel.tokens.7.5.1.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\microsoft.io.recyclablememorystream\\3.0.0\\microsoft.io.recyclablememorystream.3.0.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\mimemapping\\3.0.1\\mimemapping.3.0.1.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\reactiveui\\18.3.1\\reactiveui.18.3.1.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\skiasharp\\2.88.3\\skiasharp.2.88.3.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\skiasharp.nativeassets.linux\\2.88.3\\skiasharp.nativeassets.linux.2.88.3.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.3\\skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\skiasharp.nativeassets.webassembly\\2.88.3\\skiasharp.nativeassets.webassembly.2.88.3.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.3\\skiasharp.nativeassets.win32.2.88.3.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\splat\\14.4.1\\splat.14.4.1.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\supabase\\1.1.1\\supabase.1.1.1.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\supabase.core\\1.0.0\\supabase.core.1.0.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\supabase.functions\\2.0.0\\supabase.functions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\supabase.gotrue\\6.0.3\\supabase.gotrue.6.0.3.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\supabase.postgrest\\4.0.3\\supabase.postgrest.4.0.3.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\supabase.realtime\\7.0.2\\supabase.realtime.7.0.2.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\supabase.storage\\2.0.2\\supabase.storage.2.0.2.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.data.sqlclient\\4.8.6\\system.data.sqlclient.4.8.6.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.dynamic.runtime\\4.3.0\\system.dynamic.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.5.1\\system.identitymodel.tokens.jwt.7.5.1.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.io.pipelines\\6.0.0\\system.io.pipelines.6.0.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.objectmodel\\4.3.0\\system.objectmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.runtime.handles\\4.3.0\\system.runtime.handles.4.3.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.runtime.interopservices\\4.3.0\\system.runtime.interopservices.4.3.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.threading.channels\\8.0.0\\system.threading.channels.8.0.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\tmds.dbus.protocol\\0.15.0\\tmds.dbus.protocol.0.15.0.nupkg.sha512",
+    "C:\\Users\\Миша\\.nuget\\packages\\websocket.client\\5.1.1\\websocket.client.5.1.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Avalonia.Themes.Fluent"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Avalonia.ReactiveUI"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Supabase"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Avalonia.Desktop"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Avalonia.Fonts.Inter"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Avalonia"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Data.SqlClient"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Avalonia.Diagnostics"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "CommunityToolkit.Mvvm"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "ReactiveUI"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Reactive"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Newtonsoft.Json"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Supabase.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Supabase.Functions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Supabase.Gotrue"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Supabase.Postgrest"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Supabase.Realtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Supabase.Storage"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Avalonia.Native"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Avalonia.X11"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Avalonia.Skia"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Avalonia.Win32"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Avalonia.BuildServices"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Avalonia.Remote.Protocol"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.ComponentModel.Annotations"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "MicroCom.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Win32.Registry"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Security.Principal.Windows"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp.Scripting"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.CodeAnalysis.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Avalonia.Controls.ColorPicker"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Avalonia.Controls.DataGrid"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Avalonia.Themes.Simple"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "DynamicData"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Splat"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.IdentityModel.Tokens.Jwt"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Websocket.Client"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "MimeMapping"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Avalonia.FreeDesktop"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "HarfBuzzSharp"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "HarfBuzzSharp.NativeAssets.Linux"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "HarfBuzzSharp.NativeAssets.WebAssembly"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "SkiaSharp"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "SkiaSharp.NativeAssets.Linux"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "SkiaSharp.NativeAssets.WebAssembly"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Avalonia.Angle.Windows.Natives"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Drawing.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Numerics.Vectors"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Security.AccessControl"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "runtime.win-x64.runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "runtime.win-x86.runtime.native.System.Data.SqlClient.sni"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.CodeAnalysis.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.CodeAnalysis.Scripting.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.CSharp"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.CodeAnalysis.Analyzers"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Collections.Immutable"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Memory"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Reflection.Metadata"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Runtime.CompilerServices.Unsafe"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Text.Encoding.CodePages"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Threading.Tasks.Extensions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.IdentityModel.JsonWebTokens"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.IdentityModel.Tokens"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.IO.RecyclableMemoryStream"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Reactive"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Threading.Channels"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Tmds.DBus.Protocol"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "HarfBuzzSharp.NativeAssets.Win32"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "HarfBuzzSharp.NativeAssets.macOS"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "SkiaSharp.NativeAssets.Win32"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "SkiaSharp.NativeAssets.macOS"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Win32.SystemEvents"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.NETCore.Platforms"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Collections"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Diagnostics.Debug"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Dynamic.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Globalization"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Linq"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Linq.Expressions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.ObjectModel"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Reflection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Reflection.Extensions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Reflection.Primitives"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Reflection.TypeExtensions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Resources.ResourceManager"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Runtime.Extensions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Runtime.InteropServices"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Threading"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.NETCore.Platforms"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Runtime.CompilerServices.Unsafe"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.IdentityModel.Logging"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.IO.Pipelines"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.NETCore.Platforms"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.NETCore.Targets"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Reflection.Emit"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Reflection.Emit.ILGeneration"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.IO"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Reflection.Emit.Lightweight"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Runtime.Handles"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Threading.Tasks"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.IdentityModel.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Programs\\visual333\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Text.Encoding"
+    }
+  ]
+}
